@@ -234,12 +234,12 @@ Config.Locations = {
         enableSociety = false,
         job = "mechanic",
         coords = {
-            vector3(887.76, -2117.68, 29.79)
+            vector3(883.27, -2114.33, 29.84)
         },
         showBlip = true,
         blipSprite = 446,
         blipColor = 4,
-        blipCoords = vector3(887.76, -2117.68, 29.79),
+        blipCoords = vector3(883.27, -2114.33, 29.84),
         bossMenu = vector3(-216.13, -1317.89, 30.89),
     }
 }

@@ -86,7 +86,7 @@ end)
 function src.verifyMec()
     local source = source
     local xPlayer = vRP.getUserId(source)
-    if vRP.hasPermission(xPlayer, "mecanico.permissao") then
+    if vRP.hasPermission(xPlayer, "admin.permissao") then
         return true
     else
         TriggerClientEvent("Notify",source,"negado","Você não é um mecânico!",8000)
